@@ -1,7 +1,6 @@
 # Employee Management System (frontend)
 
 
-
 Framework and tools: Vue, Element UI, Nginx
 
 
